@@ -15,12 +15,7 @@ significant portion of the `Exit Rate` values were deliberately corrupted (set t
 ## Repository Structure
  
 ```
-.
-├── README.md
-├── notebook.ipynb          # Main notebook: all three tasks, end to end
-├── data/
-│   ├── train.csv            # Training set (Exit Rate partially missing)
-│   └── test.csv              # Test set (Exit Rate partially missing)
+WIP
 ```
 ## How to Run
  
